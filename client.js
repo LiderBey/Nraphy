@@ -48,7 +48,7 @@ client.settings = {
     "📌 Nraphy Altyapısı"
   ],
   prefix: "n!",
-  owner: "700385307077509180",
+  owner: "1146469605339037898",
   icon: "https://cdn.discordapp.com/attachments/801418986809589771/975048501912272997/Narpitti.png",
   embedColors: {
     default: 0xEB1C5A, //"eb1c5a" (Nraphy), "00ffb8" (Test),
